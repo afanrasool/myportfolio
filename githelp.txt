@@ -1,0 +1,3 @@
+#git commit -am  "<commit message>" 
+//adds and commits all the modfified files but not the newly added files in a 
+single command.

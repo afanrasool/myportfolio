@@ -1,0 +1,15 @@
+version: 0.1
+
+phases:
+  build:
+    commands:
+      - echo nothing to do yey
+artifacts:
+    files:
+      - index.html
+      - favicon.ico
+      - notesonAutomation.txt
+      - styles/*
+      - images/*
+      - README.md
+      - githelp.txt 

@@ -11,5 +11,4 @@ artifacts:
       - notesonAutomation.txt
       - styles/*
       - images/*
-      - README.md
       - githelp.txt 

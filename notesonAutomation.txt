@@ -6,3 +6,7 @@ CodeBuild configuration :
 
 			Artifacts type: S3
 			Name: -.zip
+AWS Lambda Function --> Take the code from the our build S3 bucket..unzips it and deploys it to our static website S3 Bucket.
+
+
+

@@ -1,0 +1,8 @@
+CodeBuild --> Takes the code from the source and builds it and puts in an S3 Bucket.
+CodeBuild configuration :
+			Operating System: Ubuntu
+			Runtime : Node.js
+			Use Buildspec.yml
+
+			Artifacts type: S3
+			Name: -.zip

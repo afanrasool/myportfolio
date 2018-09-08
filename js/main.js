@@ -49,7 +49,7 @@ const myWork=[
   },
 
   {
-    'title' : "Work Example Another One",
+    'title' : "Work Example Anotherr One",
     'href': "https://example.com",
     'desc': "Lorem ipsum",
     'image' : {
